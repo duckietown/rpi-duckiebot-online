@@ -1,6 +1,7 @@
 #!/usr/bin/env python2
 import os
 
+
 def rpi_online():
     print('rpi_online is empty for now')
 
